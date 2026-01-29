@@ -1,4 +1,1 @@
-<video controls playsinline width="720">
-  <source src="FETCH-UQAM.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.png)](https://raw.githubusercontent.com/cg991093/Fetch-UQAM/main/FETCH-UQAM.mp4)
