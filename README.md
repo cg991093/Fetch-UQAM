@@ -1,4 +1,4 @@
-<video controls playsinline width="720" poster="poster.png">
+<video controls playsinline width="720">
   <source src="FETCH-UQAM.mp4" type="video/mp4">
   Votre navigateur ne supporte pas la balise vidéo.
 </video>
