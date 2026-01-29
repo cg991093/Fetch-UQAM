@@ -1,1 +1,4 @@
-[![Watch the video](thumbnail.png)](https://github.com/cg991093/Fetch-UQAM/blob/main/FETCH-UQAM.mp4)
+
+
+https://github.com/user-attachments/assets/2e243dba-816b-4ba9-ae3e-c636f5776acf
+
