@@ -1,4 +1,4 @@
-# fuqam
+# fetch-UQAM
 
 Une application en ligne de commande (CLI) conçue pour consulter et suivre les résultats scolaires de l'UQAM directement depuis un terminal.
 
